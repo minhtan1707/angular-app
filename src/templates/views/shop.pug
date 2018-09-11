@@ -1,0 +1,8 @@
+.row
+	.col-4(ng-repeat="product in shop")
+		figure
+			h4 {{product.name}}
+			img.img-fluid(src="{{product.img}}", alt="")
+			figcaption
+				p ${{product.price}}
+				p {{product.desc}}

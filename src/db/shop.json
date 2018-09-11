@@ -1,0 +1,22 @@
+{
+	"lists": [
+		{
+			"name" : "Jeans",
+			"price" : "100",
+			"desc" : "sad wqf segrsg weg weg weg we",
+			"img" : "https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/5/67804405-1-f.jpg"
+		},
+		{
+			"name": "Shirt",
+			"price" :"50",
+			"desc": "asd wqf weg reahaer hserh saf",
+			"img": "https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/5/67804405-1-f.jpg"
+		},
+		{
+			"name": "Shorts",
+			"price": "60",
+			"desc": "asdweg ewg srehsr hstrh sreh",
+			"img": "https://d26lpennugtm8s.cloudfront.net/stores/188/769/products/0437260-11-8b69f92a54fc61da0415154363983144-640-0.jpg"
+		}
+	]
+}

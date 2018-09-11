@@ -1,0 +1,9 @@
+.row
+	.col-3(ng-repeat="service in services")
+		//- a(href="#~/services/{{service.id}}")
+		a(ui-sref="services.details({id:service.id})")
+			figure
+				h4 {{service.name}}
+				img.img-fluid(src="{{service.img}}", alt="")
+				figcaption
+					p {{service.desc}}

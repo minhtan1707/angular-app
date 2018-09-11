@@ -1,0 +1,26 @@
+{
+	"categories": {
+		"Animals":
+		{
+			"url": "animals"
+		}, 
+		"Macro":{
+			"url": "macro"
+		}, 
+		"People":{
+			"url": "people"
+		}, 
+		"Black and White":{
+			"url": "black-and-white"
+		}, 
+		"Sports":{
+			"url": "sports"
+		}, 
+		"Street":{
+			"url": "street"
+		}, 
+		"Commercial":{
+			"url": "commercial"
+		}
+	}
+}
