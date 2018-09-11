@@ -3,4 +3,5 @@ angular.module('app.routers', [
 	'about.router',
 	'shop.router',
 	'services.router',
+	'images.router',
 ])

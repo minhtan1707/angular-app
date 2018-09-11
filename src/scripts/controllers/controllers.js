@@ -6,4 +6,5 @@ angular.module('app.controllers', [
 	'shop.controller',
 	'services.controller',
 	'servicedetails.controller',
+	'images.controller',
 ])

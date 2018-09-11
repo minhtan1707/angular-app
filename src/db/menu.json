@@ -22,8 +22,8 @@
 			"icon": "fa-archive"
 		}, {
 			"id": 5,
-			"name": "Liên hệ",
-			"url": "contact",
+			"name": "Image",
+			"url": "images",
 			"icon": "fa-at"
 		}
 	]
