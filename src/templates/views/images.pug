@@ -1,9 +1,9 @@
 .row
 	.col-3(ng-repeat="item in data")
 		//- a(href="#~/services/{{service.id}}")
-		//-a(ui-sref="item.details({id:service.id})")
-		figure
-			h4 {{item.name}}
-			img.img-fluid(src="{{item.url}}", alt="")
-			figcaption
-				p {{item.desc}}
+		a(ui-sref="images.details({id:item.id})")
+			figure
+				h4 {{item.name}}
+				img.img-fluid(src="{{item.url}}", alt="")
+				figcaption
+					p {{item.desc}}

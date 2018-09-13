@@ -8,5 +8,6 @@ angular.module('app.controllers', [
 	'servicedetails.controller',
 	'images.controller',
 	'category.controller',
-	'imagescategory.controller'
+	'imagescategory.controller',
+	'imagesdetails.controller'
 ])

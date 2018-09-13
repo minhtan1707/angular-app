@@ -18,8 +18,8 @@
 				"wet",
 				"field"
 			],
-			"date-taken": "18/5/2018",
-			"date-uploaded": "20/5/2018",
+			"datetaken": "18/5/2018",
+			"dateuploaded": "20/5/2018",
 			"camera": "Sony Alpha a99"
 			},
 
@@ -37,8 +37,8 @@
 				"night",
 				"room"
 			],
-			"date-taken": "20/1/2018",
-			"date-uploaded": "15/7/2018",
+			"datetaken": "20/1/2018",
+			"dateuploaded": "15/7/2018",
 			"camera": "Sony Alpha a7"
 			},
 
@@ -59,8 +59,8 @@
 				"wet",
 				"field"
 			],
-			"date-taken": "18/5/2018",
-			"date-uploaded": "20/5/2018",
+			"datetaken": "18/5/2018",
+			"dateuploaded": "20/5/2018",
 			"camera": "Nikon D5600"
 			}
 		]	

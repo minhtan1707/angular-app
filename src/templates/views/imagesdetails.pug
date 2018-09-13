@@ -1,0 +1,10 @@
+.image-item(ng-repeat="item in images" ng-if="item.id===id")
+	h4 {{item.name}}
+	.row
+		.col-4
+			figure
+				img.img-fluid(src="{{item.url}}", alt="")
+		.col-8
+			p {{item.desc}}
+			p Taken by {{item.author}}
+			p Taken with {{item.camera}}

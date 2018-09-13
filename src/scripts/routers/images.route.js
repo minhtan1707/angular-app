@@ -34,4 +34,20 @@ function _imagesRoute($stateProvider, $urlRouterProvider) {
 				}
 			}
 		})
+		.state('images.details', {
+			url: '/:id',
+			data : { 
+				pageTitle: 'Images' 
+			},
+			views: {
+				"@": {
+					controller: 'ImagesDetailsController',
+					templateUrl: '/views/imagesdetails.html',
+				},
+				"menu@": {
+					controller: 'CategoryController',
+					templateUrl: '/views/category.html'
+				}
+			}
+		})
 }
