@@ -13,8 +13,24 @@ function _imagesRoute($stateProvider, $urlRouterProvider) {
 					templateUrl: '/views/images.html',
 				},
 				"menu@": {
-					controller: 'MenuController',
-					templateUrl: '/views/menu.html'
+					controller: 'CategoryController',
+					templateUrl: '/views/category.html'
+				}
+			}
+		})
+		.state('images.category', {
+			url: '/:category',
+			data : { 
+				pageTitle: 'Categories' 
+			},
+			views: {
+				"@": {
+					controller: 'ImagesCategoryController',
+					templateUrl: '/views/imagescategory.html',
+				},
+				"menu@": {
+					controller: 'CategoryController',
+					templateUrl: '/views/category.html'
 				}
 			}
 		})

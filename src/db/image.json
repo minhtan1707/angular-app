@@ -7,10 +7,10 @@
 			"author": "John Doe",
 			"desc": "asfsdg a dsfhsd hd hzdf hfzd",
 			"url": "https://drscdn.500px.org/photo/273666731/q%3D80_m%3D1000/v2?user_id=4188500&webp=true&sig=ef06ba1b5c47ac8a59d56a09a7ea0c60c3f2fb5a890e480e5d8349745cc61c64",
-			"main-category":"Black and white",
-			"sub-categories":[
-				"Animals",
-				"Macro"
+			"maincategory":"black-and-white",
+			"subcategories":[
+				"animals",
+				"macro"
 			],
 			"tag":[
 				"cat",
@@ -29,9 +29,9 @@
 			"author": "John Martin",
 			"desc": "asfsdg a dsarhfhsd hdareh hzdf hfzd",
 			"url": "https://drscdn.500px.org/photo/273666731/q%3D80_m%3D1000/v2?user_id=4188500&webp=true&sig=ef06ba1b5c47ac8a59d56a09a7ea0c60c3f2fb5a890e480e5d8349745cc61c64",
-			"main-category":"Macro",
-			"sub-categories":[
-				"People"
+			"maincategory":"macro",
+			"subcategories":[
+				"people"
 			],
 			"tag":[
 				"night",
@@ -48,10 +48,10 @@
 			"author": "Mike",
 			"desc": "qwgqerjha a dsfqwhsd hd hzdf hfzd",
 			"url": "https://drscdn.500px.org/photo/273666731/q%3D80_m%3D1000/v2?user_id=4188500&webp=true&sig=ef06ba1b5c47ac8a59d56a09a7ea0c60c3f2fb5a890e480e5d8349745cc61c64",
-			"main-category":"Sports",
-			"sub-categories":[
-				"Street",
-				"Commercial"
+			"maincategory":"sports",
+			"subcategories":[
+				"street",
+				"commercial"
 			],
 			"tag":[
 				"cat",

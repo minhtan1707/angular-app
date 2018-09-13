@@ -1,26 +1,34 @@
 {
-	"categories": {
-		"Animals":
+	"categories": [
 		{
+			"id": 1,
+			"name": "Animals",
 			"url": "animals"
-		}, 
-		"Macro":{
+		}, {
+			"id": 2,
+			"name": "Macro",
 			"url": "macro"
-		}, 
-		"People":{
+		}, {
+			"id": 3,
+			"name": "People",
 			"url": "people"
-		}, 
-		"Black and White":{
+		}, {
+			"id": 4,
+			"name": "Black and White",
 			"url": "black-and-white"
-		}, 
-		"Sports":{
+		}, {
+			"id": 5,
+			"name": "Sports",
 			"url": "sports"
-		}, 
-		"Street":{
+		}, {
+			"id": 6,
+			"name": "Street",
 			"url": "street"
-		}, 
-		"Commercial":{
+		}, {
+			"id": 7,
+			"name": "Commercial",
 			"url": "commercial"
 		}
-	}
+	]
 }
+
